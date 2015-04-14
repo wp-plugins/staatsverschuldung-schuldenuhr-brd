@@ -1,6 +1,6 @@
 === ITSecMedia BRD Schuldenuhr ===
-Contributors: CoinInvest.com
-Donate link:
+Contributors: ITSecMedia
+Donate link: https://www.coininvest.com/
 Tags: debts, brd, schulden, clock, finanzen, uhr, schuldenuhr, euro, euro-crash, plugin, widget, deutschland
 Requires at least: 4.1.1
 Tested up to: 4.1.1
@@ -44,6 +44,6 @@ Edit the configuration values here:
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 
 - first release
