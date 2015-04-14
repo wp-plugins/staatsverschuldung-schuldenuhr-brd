@@ -1,0 +1,26 @@
+.widget.ism_schuldenuhr table {
+  border-collapse: collapse;
+  border: solid 1px #efefef;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.widget.ism_schuldenuhr table th,
+.widget.ism_schuldenuhr table td {
+  border: solid 1px #efefef;
+  text-align: center;
+  padding: 0.2em;
+}
+.widget.ism_schuldenuhr table th {
+  background-color: #efefef;
+  font-size: small;
+}
+.widget.ism_schuldenuhr #debt1 {
+  color: blue;
+}
+.widget.ism_schuldenuhr #debt2 {
+  color: red;
+}
+.widget.ism_schuldenuhr #debt3 {
+  color: red;
+}
