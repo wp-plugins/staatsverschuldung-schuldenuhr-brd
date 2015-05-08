@@ -3,7 +3,7 @@ Contributors: ITSecMedia
 Donate link: https://www.coininvest.com/
 Tags: debts, brd, schulden, clock, finanzen, uhr, schuldenuhr, euro, euro-crash, plugin, widget, deutschland
 Requires at least: 4.1.1
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
