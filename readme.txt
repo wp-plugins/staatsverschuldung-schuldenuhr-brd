@@ -15,6 +15,7 @@ BRD Schuldenuhr Widget — Schuldenuhr der Bundesrepublik Deutschland inklusive 
 Easy to customize `Bundesrepublik Deutschland Schuldenuhr` mit pro-Kopf Verschuldung as Wordpress-Widget
 
 This wordpress plugin is maintained by [https://www.coininvest.com/](https://www.coininvest.com/).
+The plugin homepage is [https://www.coininvest.com/wiki/de/staatsverschuldung-schuldenuhr-deutschland/](https://www.coininvest.com/wiki/de/staatsverschuldung-schuldenuhr-deutschland/)
 
 == Installation ==
 
